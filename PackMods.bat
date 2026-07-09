@@ -1,0 +1,3 @@
+@echo off
+title Packing Palworld Mods...
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0PackMods.ps1"

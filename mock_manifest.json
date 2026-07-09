@@ -1,0 +1,14 @@
+{
+  "serverIp": "oddarabs.asuscomm.com",
+  "serverPort": 8211,
+  "serverPassword": "",
+  "authApiUrl": "http://localhost:8000/allow-connection",
+  "apiSecret": "MY_SECRET_KEY",
+  "approvedWorkshopIds": [
+    "3625223587"
+  ],
+  "approvedManagedMods": [],
+  "approvedNativeMods": [],
+  "approvedPakMods": [],
+  "mods": []
+}

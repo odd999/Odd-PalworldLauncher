@@ -1,0 +1,21 @@
+# Ignore Visual Studio build outputs and cached files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore built executables and symbol databases in the root
+PalworldLauncher.exe
+PalworldLauncher.pdb
+
+# Ignore local configuration files with private information
+launcher_config.json
+
+# Ignore hand-off notes and developer-facing scratch directories
+hand_off.md
+.agents/
+.gemini/
+scratch/

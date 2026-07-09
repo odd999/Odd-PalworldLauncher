@@ -1,0 +1,8 @@
+{
+  "PalworldPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Palworld",
+  "ManifestUrl": "https://raw.githubusercontent.com/your-username/your-repo/main/manifest.json",
+  "ServerIp": "127.0.0.1",
+  "ServerPort": 8211,
+  "ServerPassword": "YOUR_SERVER_PASSWORD_HERE",
+  "AutoConnect": true
+}
